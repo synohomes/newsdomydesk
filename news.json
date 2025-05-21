@@ -1,0 +1,40 @@
+[
+  {
+    "titre": "Nouveaux modules IT",
+    "soustitre": "Deux modules pour gérer vos virtualiseurs",
+    "date": "2025-05-21",
+    "description": "Vous pouvez avec ce module: créer, modifier, démarrer, éteindre vos VM qui sont sur Proxmox ou Esxi et un autre pour vous permettre de contrôle la VM directement sur votre dashboard, pas belle la vie ?"
+  },
+  {
+    "titre": "Nouveaux modules outils maison",
+    "soustitre": "Quelques outils pour votre maison",
+    "date": "2025-05-20",
+    "description": "Vous rêvez d'avoir toute vos télécommandes de vos appareils connectés sur une page web et bien d'autres? C'est maintenant ! "
+  },
+  {
+    "titre": "Nouveau module Outil de bureau",
+    "soustitre": "Outils indispensables pour votre bureau",
+    "date": "2025-05-20",
+    "description": "Une calculatrice, un bloc note, une horloge/alarme, "
+  },
+{
+    "titre": "Le site et le concepte est né",
+    "soustitre": "Le support est posé après 3 semaines de code (php, html; js, json) j'en ai perdu mes cheveux blancs",
+    "date": "2025-05-20",
+    "description": "Une calculatrice, un bloc note, une horloge/alarme, "
+  },
+{
+    "titre": "Invention du concepte","date": 
+    "2025-02-08",
+    "soustitre": "SynoAdminWeb pousse de sous terre",
+    
+    "description": "Espace de travail modulable sur une page web, toute la famille, toute les équipes, toutes les associations aiment la simplicité, on fabrique son bureau, zone médias et bien d'autres"
+  },
+
+  {
+    "titre": "Le commencement ...",
+    "soustitre": "Au travail",
+    "date": "2024-12-20",
+    "description": "Au travail il n'était pas simple de travailler sur plusieurs serveurs en RDP, comment redémarrer un simple service de mon serveur avec mon smartphone? Tout contrôler depuis un smartphone ou une tablette"
+  }
+]
