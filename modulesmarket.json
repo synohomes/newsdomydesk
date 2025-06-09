@@ -1,0 +1,58 @@
+[
+    {
+        "id": "memo",
+        "name": "Memo maison",
+        "description": "un petit truc à écrire ? c'est ici",
+        "icon": "modules/memo/logo.png",
+        "download": "https://github.com/synohomes/modulesmarket-test/raw/main/memo.zip",
+        "enabled": false
+    },
+    {
+        "id": "automobileelec",
+        "name": "ElecAuto",
+        "description": "Tout ce qui concerne le chargement de votre voiture",
+        "icon": "modules/elecauto/modicone.png",
+        "download": "https://github.com/synohomes/modulesmarket-test/raw/main/automobileelec.zip",
+        "enabled": false
+    },
+    {
+        "id": "proxmoxfree",
+        "name": "Proxmox V.1",
+        "description": "Module qui vous permet de visualiser l'utilisation des ressources de votre Proxmox",
+        "icon": "modules/proxmoxfree/modicone.png",
+        "download": "https://github.com/synohomes/modulesmarket-test/raw/main/proxmoxfree.zip",
+        "enabled": false
+    },
+    {
+        "id": "hometv",
+        "name": "Televisions Maison",
+        "description": "Toutes vos télécommandes en un seul endroit",
+        "icon": "modules/elecauto/modicone.png",
+        "download": "https://github.com/synohomes/modulesmarket-test/raw/main/hometv.zip",
+        "enabled": false
+    },
+    {
+        "id": "recettecuisine",
+        "name": "Recette de cuisine",
+        "description": "Pas d'idée pour préparer un repas ?",
+        "icon": "modules/elecauto/modicone.png",
+        "download": "https://github.com/synohomes/modulesmarket-test/raw/main/automobileelec.zip",
+        "enabled": false
+    },
+    {
+        "id": "proxmoxvirtual",
+        "name": "Proxmox V.2",
+        "description": "Vous pourrez en plus de la V.1 visualiser et contrôler toutes vos VM",
+        "icon": "modules/proxmoxfree/modicone.png",
+        "download": "https://github.com/synohomes/modulesmarket-test/raw/main/proxmoxfree.zip",
+        "enabled": false
+    },
+    {
+        "id": "camsecu",
+        "name": "Caméras Viewer",
+        "description": "Vos caméras de sécurité à côté de votre liste de courses partout où vous êtes.",
+        "icon": "modules/elecauto/modicone.png",
+        "download": "https://github.com/synohomes/modulesmarket-test/raw/main/hometv.zip",
+        "enabled": false
+    }
+]
