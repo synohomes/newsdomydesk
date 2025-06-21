@@ -1,9 +1,9 @@
 [
     {
     "titre": "DoMyBox",
-    "soustitre": "Domydesk, autonome, rapsberry pi 5 ... ça donne DoMyBoxV1, DoMyBoxV2, DoMyBoxV2, ",
+    "soustitre": "Domydesk, autonome, rapsberry pi 5 ... ",
     "date": "2025-06-21",
-    "description": "Que diriez vous d'avoir DoMyDesk auto hébergé avec un hotspot, firewall type pfsense, un vpn intégré, un serveur Apach/Php juste en l'alumant? "
+    "description": "Que diriez vous d'avoir DoMyDesk auto hébergé avec un hotspot, firewall type pfsense, un vpn intégré, un serveur Apach/Php, serveur DHCP, DoMyBoxV1, DoMyBoxV2, DoMyBoxV2, du rapsberry pi 5 8Go au mini PC avec 2xRJ45 juste en l'alumant? Projet en cours de développement (en cours)"
   },
     {
     "titre": "Site complet",
