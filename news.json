@@ -1,5 +1,11 @@
 [
     {
+    "titre": "DoMyBox",
+    "soustitre": "Domydesk, autonome, rapsberry pi 5 ... ça donne DoMyBoxV1, DoMyBoxV2, DoMyBoxV2, ",
+    "date": "2025-06-09",
+    "description": "Que diriez vous d'avoir DoMyDesk auto hébergé avec un hotspot, firewall type pfsense, un vpn intégré, un serveur Apach/Php juste en l'alumant? "
+  },
+    {
     "titre": "Site complet",
     "soustitre": "Plein de changements sur le site.",
     "date": "2025-06-09",
