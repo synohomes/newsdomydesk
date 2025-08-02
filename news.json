@@ -1,5 +1,11 @@
 [
-        {
+  {
+    "titre": "DoMyDesk Jour "J"",
+    "soustitre": "La sortie de DoMyDesk est aujourd'hui",
+    "date": "2025-08-02",
+    "description": "Avec 3 jours de retard DoMyDesk sort enfin de la cave, une version complète avec tous les modules (mode démo) seront directement installés dans le fichier que vous téléchargerez."
+  },
+  {
     "titre": "DoMySocial",
     "soustitre": "DoMySocial ou DoMyTribe",
     "date": "2025-07-07",
@@ -62,3 +68,4 @@
     "description": "Au travail il n'était pas simple de travailler sur plusieurs serveurs en RDP, comment redémarrer un simple service de mon serveur avec mon smartphone? Tout contrôler depuis un smartphone ou une tablette"
   }
 ]
+
