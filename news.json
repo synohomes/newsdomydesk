@@ -3,59 +3,69 @@
     "titre": "DoMyDesk Jour J",
     "soustitre": "La sortie de DoMyDesk est aujourd'hui",
     "date": "2025-08-02",
+    "auteur": "DoMyDesk",
     "description": "Avec 3 jours de retard DoMyDesk sort enfin de la cave, une version complète avec tous les modules (mode démo) seront directement installés dans le fichier que vous téléchargerez."
   },
   {
     "titre": "DoMySocial",
     "soustitre": "DoMySocial ou DoMyTribe",
     "date": "2025-07-07",
+    "auteur": "DoMyDesk",
     "description": "Un réseau de discussion, comme on les aime : un mur d’échanges, de partages et de bonne humeur."
   },
     {
     "titre": "DoMyBox",
     "soustitre": "Domydesk, autonome, rapsberry pi 5 ... ",
     "date": "2025-06-21",
+    "auteur": "DoMyDesk",
     "description": "Que diriez vous d'avoir DoMyDesk auto hébergé avec un hotspot, firewall type pfsense, un vpn intégré, un serveur Apach/Php, serveur DHCP, DoMyBoxV1, DoMyBoxV2, DoMyBoxV2, du rapsberry pi 5 8Go au mini PC avec 2xRJ45 juste en l'alumant? Projet en cours de développement (en cours)"
   },
     {
     "titre": "Site complet",
     "soustitre": "Plein de changements sur le site.",
     "date": "2025-06-09",
+     "auteur": "DoMyDesk",
     "description": "Le site est complet avec un Dashboard complet qui sauvegarde les modules en place, un 'Reset' pour tout enlever d'un coup, votre thème de couleur partout sur le site, upload de modules avec ajout dans les listes automatiquement, ajout du MarketModules, ajout d'un jeu d'échec, ajout du jeu de solitaire,  ... "
   },
     {
     "titre": "Annonce du lancement de DoMyDesk",
     "soustitre": "Annonces du lancement sur facebook, Discord et le site https://synohomes.com",
     "date": "2025-06-01",
+      "auteur": "DoMyDesk",
     "description": "La date du lancement du projet DoMyDesk a été annoncée sur Facebook et Discord avec lien pour avoir le compte à rebour http://domydesk.com "
   },
   {
     "titre": "Nouveaux modules IT",
     "soustitre": "Deux modules pour gérer vos virtualiseurs",
     "date": "2025-05-21",
+    "auteur": "DoMyDesk",
     "description": "Vous pouvez avec ce module: créer, modifier, démarrer, éteindre vos VM qui sont sur Proxmox ou Esxi et un autre pour vous permettre de contrôle la VM directement sur votre dashboard, pas belle la vie ?"
   },
   {
     "titre": "Nouveaux modules outils maison",
     "soustitre": "Quelques outils pour votre maison",
     "date": "2025-05-20",
+    "auteur": "DoMyDesk",
     "description": "Vous rêvez d'avoir toute vos télécommandes de vos appareils connectés sur une page web et bien d'autres? C'est maintenant ! "
   },
   {
     "titre": "Nouveau module Outil de bureau",
     "soustitre": "Outils indispensables pour votre bureau",
     "date": "2025-05-20",
+    "auteur": "DoMyDesk",
     "description": "Une calculatrice, un bloc note, une horloge/alarme, "
   },
 {
     "titre": "Le site et le concepte est né",
     "soustitre": "Le site est né et est fonctionnel",
     "date": "2025-05-20",
+  "auteur": "DoMyDesk",
     "description": "Le support est posé après 3 semaines de code (php, html; js, json) j'en ai perdu mes cheveux blancs"
   },
 {
-    "titre": "Invention du concepte","date": 
-    "2025-02-08",
+    "titre": "Invention du concepte",
+  "date": "2025-02-08",
+  "auteur": "DoMyDesk",
     "soustitre": "SynoAdminWeb pousse de sous terre",
     
     "description": "Espace de travail modulable sur une page web, toute la famille, toute les équipes, toutes les associations aiment la simplicité, on fabrique son bureau, zone médias et bien d'autres"
@@ -65,9 +75,11 @@
     "titre": "Le commencement ...",
     "soustitre": "Au travail",
     "date": "2024-12-20",
+    "auteur": "DoMyDesk",
     "description": "Au travail il n'était pas simple de travailler sur plusieurs serveurs en RDP, comment redémarrer un simple service de mon serveur avec mon smartphone? Tout contrôler depuis un smartphone ou une tablette"
   }
 ]
+
 
 
 
