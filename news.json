@@ -1,4 +1,11 @@
 [
+    {
+    "titre": "Nouveau module en cours (60%)",
+    "soustitre": " Et si vous aviez la main sur vos propres fichiers/dossiers ? ",
+    "date": "2025-08-03",
+    "auteur": "DoMyDesk",
+    "description": "'Folders' va vous permettre de naviguer dans votre dossier personnel pour ajouter, lire, supprimer, déplacer des fichiers et ou dossier, vous pourrez aussi partager par groupe ou par utilisateur des dossiers pour vos colaborations"
+  },
   {
     "titre": "DoMyDesk Jour J",
     "soustitre": "La sortie de DoMyDesk est aujourd'hui",
@@ -79,6 +86,7 @@
     "description": "Au travail il n'était pas simple de travailler sur plusieurs serveurs en RDP, comment redémarrer un simple service de mon serveur avec mon smartphone? Tout contrôler depuis un smartphone ou une tablette"
   }
 ]
+
 
 
 
