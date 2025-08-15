@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Installation DoMyDesk",
+    "date": "2025-08-15",
+    "description": "Guide complet d’installation et configuration initiale.",
+    "pdf": "https://raw.githubusercontent.com/toncompte/tonrepo/main/procedures/installation_dmd.pdf",
+    "size": "1.2 MB"
+  },
+  {
+    "name": "Sauvegarde & Restauration",
+    "date": "2025-08-12",
+    "description": "Procédure de sauvegarde et récupération après crash.",
+    "pdf": "https://raw.githubusercontent.com/toncompte/tonrepo/main/procedures/backup_restore.pdf"
+  }
+]
