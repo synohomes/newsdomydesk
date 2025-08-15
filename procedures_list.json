@@ -36,8 +36,17 @@
     "date": "2025-08-12",
     "description": "Procédure de sauvegarde et récupération après crash.",
     "pdf": "https://raw.githubusercontent.com/procedures/backup_restore.pdf"
-  }
+  },
+  {
+  "name": "Installation DoMyDesk",
+  "date": "2025-08-15",
+  "description": "Guide complet…",
+  "pdf": "https://…/installation_dmd.pdf",
+  "video": "https://www.youtube.com/watch?v=XXXXXXXX",
+  "size": "1.2 MB"
+}
 ]
+
 
 
 
