@@ -1,4 +1,11 @@
 [
+  {
+    "titre": "Nouveau module 'Map'",
+    "soustitre": "Vous pourrez pointer votre rue et avoir un plan autour de vous facilement comme googlemap",
+    "date": "2025-08-24",
+    "auteur": "DoMyDesk",
+    "description": "Vous pourrez pointer votre rue et avoir un plan autour de vous facilement comme googlemap, téléchargeable et installable depuis l'administration Système dans les modules."
+   },
     {
     "titre": "Nouveau module en cours (60%)",
     "soustitre": " Et si vous aviez la main sur vos propres fichiers/dossiers ? ",
@@ -86,6 +93,7 @@
     "description": "Au travail il n'était pas simple de travailler sur plusieurs serveurs en RDP, comment redémarrer un simple service de mon serveur avec mon smartphone? Tout contrôler depuis un smartphone ou une tablette"
   }
 ]
+
 
 
 
