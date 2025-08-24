@@ -1,0 +1,96 @@
+[  {
+    "id": "timer2",
+    "name": "timer2",
+    "description": "Un module simple pour chronométrer vos tâches directement dans DoMyDesk.",
+    "version": "1.0.0",
+    "author": "SynoHomes",
+    "category": "Productivité",
+    "download_url": "https://github.com/synohomes/Modules/raw/refs/heads/main/timer.zip",
+    "enabled": false
+  },
+        {
+    "id": "timer",
+    "name": "timer",
+    "description": "Un module simple pour chronométrer vos tâches directement dans DoMyDesk.",
+    "version": "1.0.0",
+    "author": "SynoHomes",
+    "category": "Productivité",
+    "download_url": "https://github.com/synohomes/Modules/raw/refs/heads/main/timer.zip",
+    "enabled": false
+  },
+      {
+    "id": "inventaire",
+    "name": "inventaire",
+    "description": "Inventaire modulable, ajouter des champs (date, nombre, texte long ou court), faites votre inventaire et exportez le en PDF en un clic",
+    "version": "1.0.0",
+    "author": "SynoHomes",
+    "category": "Administration",
+    "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/inventaire.zip",
+    "enabled": true
+  },
+   {
+    "id": "infra",
+    "name": "infra",
+    "description": "Infra vous aide à documenter toute votre infrastructure en un clin d’œil",
+    "version": "1.0.0",
+    "author": "SynoHomes",
+    "category": "Administration",
+    "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/infra.zip",
+    "enabled": true
+  },
+ {
+    "id": "meteo",
+    "name": "meteo",
+    "description": "Un petit module qui vous permet d'afficher la météo de une ou plusieurs villes en France",
+    "version": "1.0.0",
+    "author": "SynoHomes",
+    "category": "Productivité",
+    "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/meteo.zip",
+    "enabled": true
+  },
+  {
+    "id": "timer",
+    "name": "timer",
+    "description": "Un module simple pour chronométrer vos tâches directement dans DoMyDesk.",
+    "version": "1.0.0",
+    "author": "SynoHomes",
+    "category": "Productivité",
+    "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/timer.zip",
+    "enabled": true
+  },
+  {
+    "id": "proxv1",
+    "name": "Proxmox Monitor",
+    "description": "Surveillez vos serveurs Proxmox et visualisez l'état des VM en direct.",
+    "version": "1.2.3",
+    "author": "SynoHomes",
+    "category": "Administration",
+    "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/proxv1.zip",
+    "enabled": true
+  },
+    {
+    "id": "savev.1.zip",
+    "name": "savev.1.zip",
+    "description": "Un petit bouton dans les paramètres de votre profile pour enregistrer votre dossier utilisateur et téléchargement de ce dernier.",
+    "version": "1.2.3",
+    "author": "SynoHomes",
+    "category": "Administration",
+    "download_url": "https://github.com/synohomes/marketmodules/raw/refs/heads/main/savev.1.zip",
+    "enabled": true
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
