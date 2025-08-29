@@ -1,11 +1,10 @@
 [
   {
-    "id": "blue",
-    "name": "Thème 'Blue' v1",
-    "date": "2025-08-15",
-    "description": "Thème sur un fond bleu et des contours plus clairs.",
-    "image": "https://…/installation_dmd.pdf",
-    "dl": "https://…/installation_dmd.zip",
-    "size": "1.2 MB"
-  }
+  "name": "Thème 'Blue' v1 ",
+  "date": "2025-08-15",
+  "description": "Thème sur un fond bleu et des coutours plus clairs. Thème simple en couleurs",
+  "image": "https://github.com/synohomes/Themes_DmD/blob/main/chris.png",
+  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/chris.zip",
+  "size": "160 ko"
+}
 ]
