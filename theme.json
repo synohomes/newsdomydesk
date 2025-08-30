@@ -1,6 +1,6 @@
 [
     {
-  "name": "Thème Tron",
+  "name": "Theme Tron",
   "date": "2025-08-15",
   "description": "Un thème qui essaye de vous plonger dans l'univers de Tron",
   "image": "https://github.com/synohomes/Themes_DmD/blob/main/tron.png?raw=true",
@@ -8,7 +8,7 @@
   "size": "160 ko"
 },
   {
-  "name": "Thème Nöel",
+  "name": "Theme Nöel",
   "date": "2025-08-15",
   "description": "Thème Noël pour tous les enfants de 2 à 99 ans",
   "image": "https://github.com/synohomes/Themes_DmD/blob/main/chris.png?raw=true",
@@ -16,7 +16,7 @@
   "size": "160 ko"
 },
     {
-  "name": "Thème Belgique",
+  "name": "Theme Belgique",
   "date": "2025-08-15",
   "description": "Pour nos amis les Belges",
   "image": "https://github.com/synohomes/Themes_DmD/blob/main/be.png?raw=true",
@@ -24,6 +24,7 @@
   "size": "160 ko"
 }
 ]
+
 
 
 
