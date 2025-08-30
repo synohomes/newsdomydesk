@@ -1,4 +1,12 @@
 [
+    {
+  "name": "Thème Tron",
+  "date": "2025-08-15",
+  "description": "Un thème qui essaye de vous plonger dans l'univers de Tron",
+  "image": "https://github.com/synohomes/Themes_DmD/blob/main/tron.png?raw=true",
+  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/tron.zip",
+  "size": "160 ko"
+},
   {
   "name": "Thème Nöel",
   "date": "2025-08-15",
@@ -16,6 +24,7 @@
   "size": "160 ko"
 }
 ]
+
 
 
 
