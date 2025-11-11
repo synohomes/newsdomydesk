@@ -1,51 +1,25 @@
 [
   {
-    "name": "ESSAI1",
+    "name": "Prox.v2 (En Cours)",
     "date": "2025-08-15",
-    "description": "Guide complet d’installation et configuration initiale.",
+    "description": "Procédure pour utiliser le module Proxmox",
     "pdf": "https://raw.githubusercontent.com/procedures/installation_dmd.pdf",
     "size": "1.2 MB"
   },
   {
-    "name": "ESSAI2",
+    "name": "CountDown (En Cours)",
     "date": "2025-08-12",
-    "description": "Procédure de sauvegarde et récupération après crash.",
+    "description": "Procédure pour configurer le module CountDows",
     "pdf": "https://raw.githubusercontent.com/procedures/backup_restore.pdf"
   },
   {
-    "name": "ESSAI3",
+    "name": "Meteov2",
     "date": "2025-08-12",
-    "description": "Procédure de sauvegarde et récupération après crash.",
-    "pdf": "https://raw.githubusercontent.com/procedures/backup_restore.pdf"
-  },
-  {
-    "name": "ESSAI4",
-    "date": "2025-08-12",
-    "description": "Procédure de sauvegarde et récupération après crash.",
+    "description": "Procédure pour configurer le module Meteov2.",
     "pdf": "https://raw.githubusercontent.com/procedures/backup_restore.pdf"
   }
-  ,
-  {
-    "name": "ESSAI5",
-    "date": "2025-08-12",
-    "description": "Procédure de sauvegarde et récupération après crash.",
-    "pdf": "https://raw.githubusercontent.com/procedures/backup_restore.pdf"
-  },
-  {
-    "name": "ESSAI6",
-    "date": "2025-08-12",
-    "description": "Procédure de sauvegarde et récupération après crash.",
-    "pdf": "https://raw.githubusercontent.com/procedures/backup_restore.pdf"
-  },
-  {
-  "name": "Installation DoMyDesk",
-  "date": "2025-08-15",
-  "description": "Guide complet…",
-  "pdf": "https://…/installation_dmd.pdf",
-  "video": "https://www.youtube.com/watch?v=XXXXXXXX",
-  "size": "1.2 MB"
-}
 ]
+
 
 
 
