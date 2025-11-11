@@ -1,6 +1,6 @@
 [
   {
-    "name": "Prox.v2 (En Cours)",
+    "name": "Proxv2 (En Cours)",
     "date": "2025-08-15",
     "description": "Procédure pour utiliser le module Proxmox",
     "pdf": "https://raw.githubusercontent.com/procedures/installation_dmd.pdf",
@@ -13,12 +13,13 @@
     "pdf": "https://raw.githubusercontent.com/procedures/backup_restore.pdf"
   },
   {
-    "name": "Meteov2",
+    "name": "Meteov2 (En Cours)",
     "date": "2025-08-12",
     "description": "Procédure pour configurer le module Meteov2.",
     "pdf": "https://raw.githubusercontent.com/procedures/backup_restore.pdf"
   }
 ]
+
 
 
 
