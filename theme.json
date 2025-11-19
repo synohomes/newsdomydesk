@@ -1,9 +1,17 @@
 [
+        {
+  "name": "Theme Bleu Marine",
+  "date": "2025-11-15",
+  "description": "Un thème bleu marine et contours avec lueur",
+  "image": "https://github.com/synohomes/Themes_DmD/blob/main/BlueM.PNG",
+  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/blueM.zip",
+  "size": "160 ko"
+},
     {
   "name": "Theme Tron",
   "date": "2025-08-15",
   "description": "Un thème qui essaye de vous plonger dans l'univers de Tron",
-  "image": "https://github.com/synohomes/Themes_DmD/blob/main/tron.png?raw=true",
+  "image": "https://github.com/synohomes/Themes_DmD/blob/main/tron.png",
   "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/tron.zip",
   "size": "160 ko"
 },
@@ -11,7 +19,7 @@
   "name": "Theme Nöel",
   "date": "2025-08-15",
   "description": "Thème Noël pour tous les enfants de 2 à 99 ans",
-  "image": "https://github.com/synohomes/Themes_DmD/blob/main/chris.png?raw=true",
+  "image": "https://github.com/synohomes/Themes_DmD/blob/main/chris.png",
   "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/chris.zip",
   "size": "160 ko"
 },
@@ -19,11 +27,12 @@
   "name": "Theme Belgique",
   "date": "2025-08-15",
   "description": "Pour nos amis les Belges",
-  "image": "https://github.com/synohomes/Themes_DmD/blob/main/be.png?raw=true",
+  "image": "https://github.com/synohomes/Themes_DmD/blob/main/be.png",
   "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/be.zip",
   "size": "160 ko"
 }
 ]
+
 
 
 
