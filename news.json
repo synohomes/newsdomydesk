@@ -1,4 +1,32 @@
 [
+         {
+    "titre": "Nouveau module Domydesk",
+    "soustitre": "Un convertisseur d'unités ?",
+    "date": "2026-01-14",
+    "auteur": "DoMyDesk",
+    "description": "dmdconvert est un module pratique qui permet de convertir rapidement des unités et formats courants (poids, longueurs, volumes, données, temps, etc.)"
+   },
+       {
+    "titre": "Nouveau module Domydesk",
+    "soustitre": "Générateur de mot de passe ? Coffre à mot de passe ?",
+    "date": "2026-01-14",
+    "auteur": "DoMyDesk",
+    "description": "Genpw est un module sécurisé qui permet de générer, stocker et exporter des mots de passe chiffrés, protégés par un mot de passe maître, avec contrôle d’accès, export PDF et affichage QRcode."
+   },
+     {
+    "titre": "Nouveau module Domydesk",
+    "soustitre": "Vous voulez calculer vos IP réseau ipv4 et ipv6 ? Connaitre le nombre d'ip possible avec un sous-réseau ?",
+    "date": "2026-01-14",
+    "auteur": "DoMyDesk",
+    "description": "ipcalc est un module simple et visuel qui permet de calculer, comprendre et vérifier des adresses IP (IPv4/IPv6), leurs plages, masques, sous-réseaux et informations réseau, avec export et procédures intégrées."
+   },
+   {
+    "titre": "Domysocial se développe.",
+    "soustitre": "Vous voulez créer votre groupe ?",
+    "date": "2026-01-14",
+    "auteur": "DoMySocial",
+    "description": "Vous voulez créer votre groupe ? Cela est à présent possible dans DoMySocial et vous pourrez inviter qui vous voulez :) pas belle la vie ?"
+   },
   {
     "titre": "Nouveau module 'Map'",
     "soustitre": "Votre Googlemap sous la main sans lien avec Google ...",
@@ -93,6 +121,7 @@
     "description": "Au travail il n'était pas simple de travailler sur plusieurs serveurs en RDP, comment redémarrer un simple service de mon serveur avec mon smartphone? Tout contrôler depuis un smartphone ou une tablette"
   }
 ]
+
 
 
 
