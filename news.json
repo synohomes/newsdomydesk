@@ -1,4 +1,18 @@
 [
+      {
+    "titre": "Nouveau module Domydesk",
+    "soustitre": "Candy pour vos moments de détente",
+    "date": "2026-01-14",
+    "auteur": "DoMyDesk",
+    "description": "Mini-jeu simple et coloré pour se détendre quelques minutes, basé sur la réflexion rapide et l’enchaînement de combinaisons."
+   },    
+  {
+    "titre": "Nouveau module Domydesk",
+    "soustitre": "Snake pour vos moments de détente",
+    "date": "2026-01-14",
+    "auteur": "DoMyDesk",
+    "description": "Snake est un jeu rétro incontournable qui met à l’épreuve la précision et les réflexes, avec une prise en main immédiate et une difficulté progressive."
+   },
          {
     "titre": "Nouveau module Domydesk",
     "soustitre": "Un convertisseur d'unités ?",
@@ -121,6 +135,7 @@
     "description": "Au travail il n'était pas simple de travailler sur plusieurs serveurs en RDP, comment redémarrer un simple service de mon serveur avec mon smartphone? Tout contrôler depuis un smartphone ou une tablette"
   }
 ]
+
 
 
 
