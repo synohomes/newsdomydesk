@@ -9,19 +9,9 @@
   "cat2": ["IT", "System", "Visualisation"],
   "price": 0
   "url": "https://github.com/synohomes/marketmodules/blob/main/candy.zip"
-},     
-{
-  "id": "dhcp",
-  "titre": "Module DHCP",
-  "soustitre": "Avoir son petit DHCP sur son Pi",
-  "date": "2026-01-14",
-  "auteur": "DoMyDesk",
-  "cat": "modules",
-  "cat2": ["IT", "System", "Visualisation"],
-  "price": 0
- "url": "https://github.com/synohomes/marketmodules/blob/main/candy.zip"
 }
 ]
+
 
 
 
