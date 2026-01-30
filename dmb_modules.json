@@ -1,5 +1,4 @@
-[
- {
+[{
   "id": "dhcp",
   "titre": "Module DHCP",
   "soustitre": "Avoir son petit DHCP sur son Pi",
@@ -9,8 +8,8 @@
   "cat2": ["IT", "System", "Visualisation"],
   "price": 0
   "url": "https://github.com/synohomes/marketmodules/blob/main/candy.zip"
-}
-]
+}]
+
 
 
 
