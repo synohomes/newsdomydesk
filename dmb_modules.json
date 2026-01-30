@@ -1,10 +1,10 @@
 [
-{
-  "id": "dhcp",
-  "titre": "Module DHCP",
-  "soustitre": "Avoir son petit DHCP sur son Pi",
-  "cat2": ["System", "Réseau"],
-  "doc": "https://mondomaine.tld/docs/dhcp.pdf",
-  "view": "https://mondomaine.tld/previews/dhcp.png"
-}
+  {
+    "id": "dhcp",
+    "titre": "Module DHCP",
+    "soustitre": "Avoir son petit DHCP sur son Pi",
+    "cat2": ["System", "Réseau"],
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
+  }
 ]
