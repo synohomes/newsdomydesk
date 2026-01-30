@@ -8,6 +8,7 @@
   "cat": "modules",
   "cat2": ["IT", "System", "Visualisation"],
   "price": 0
+  "url": "
 },     
 {
   "id": "dhcp",
@@ -20,6 +21,7 @@
   "price": 0
 }
 ]
+
 
 
 
