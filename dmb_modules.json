@@ -1,10 +1,27 @@
 [
   {
-    "id": "dhcp",
+    "id": "DHCP",
     "titre": "Module DHCP",
     "soustitre": "Avoir son petit DHCP sur son Pi",
-    "cat2": ["System", "Réseau"],
+    "cat2": "Réseau",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "PXE",
+    "titre": "Module PXE_WDS",
+    "soustitre": "Comment installer linux, windows sur votre ordinateur par réseau ?",
+    "cat2": "System",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "AP",
+    "titre": "Module Acces-point",
+    "soustitre": "Combiné avec votre serveur DHCP vous aurez facilement votre point d'accès réseau via WIFI.",
+    "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
   }
 ]
+
