@@ -8,7 +8,7 @@
   "cat": "modules",
   "cat2": ["IT", "System", "Visualisation"],
   "price": 0
-  "url": "
+  "url": "https://github.com/synohomes/marketmodules/blob/main/candy.zip"
 },     
 {
   "id": "dhcp",
@@ -19,8 +19,10 @@
   "cat": "modules",
   "cat2": ["IT", "System", "Visualisation"],
   "price": 0
+ "url": "https://github.com/synohomes/marketmodules/blob/main/candy.zip"
 }
 ]
+
 
 
 
