@@ -1,3 +1,4 @@
+[
 {
   "id": "dhcp",
   "titre": "Module DHCP",
@@ -6,4 +7,4 @@
   "doc": "https://mondomaine.tld/docs/dhcp.pdf",
   "view": "https://mondomaine.tld/previews/dhcp.png"
 }
-
+]
