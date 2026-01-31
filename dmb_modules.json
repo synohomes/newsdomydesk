@@ -33,7 +33,7 @@
     "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png",
-      "url": "https://synohomes.com/previews/dhcp.png"
+      "url": "https://github.com/synohomes/Modules_DMB/raw/refs/heads/main/sysinfo.zip"
   },
     {
     "id": "VPN",
@@ -81,6 +81,7 @@
       "url": "https://synohomes.com/previews/dhcp.png"
   }
 ]
+
 
 
 
