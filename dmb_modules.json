@@ -6,6 +6,7 @@
     "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
+    "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
     "id": "PXE",
@@ -14,6 +15,7 @@
     "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
+      "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
     "id": "AP",
@@ -22,6 +24,7 @@
     "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
+      "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
     "id": "SysInfos",
@@ -30,6 +33,7 @@
     "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
+      "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
     "id": "VPN",
@@ -38,6 +42,7 @@
     "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
+      "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
     "id": "FW",
@@ -46,6 +51,7 @@
     "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
+      "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
     "id": "Backups",
@@ -54,6 +60,7 @@
     "cat2": "NAS",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
+      "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
     "id": "Backups",
@@ -62,6 +69,7 @@
     "cat2": "NAS",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
+      "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
     "id": "Folders",
@@ -70,8 +78,10 @@
     "cat2": "NAS",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
+      "url": "https://synohomes.com/previews/dhcp.png"
   }
 ]
+
 
 
 
