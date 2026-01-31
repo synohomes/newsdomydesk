@@ -70,8 +70,73 @@
     "cat2": "NAS",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "PXE",
+    "titre": "Module PXE_WDS",
+    "soustitre": "Serveur de déploiement systèmes Linux, Windows",
+    "cat2": "Systeme",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "AP",
+    "titre": "Module Acces-point",
+    "soustitre": "Point d'accès WIFI AP.",
+    "cat2": "Réseau",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "SysInfos",
+    "titre": "Module Infos System",
+    "soustitre": "Affichage du systeme",
+    "cat2": "Systeme",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "VPN",
+    "titre": "Module VPN",
+    "soustitre": "Se connecter à un VPN",
+    "cat2": "Réseau",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "FW",
+    "titre": "Module FireWall",
+    "soustitre": "Un firewall embarqué.",
+    "cat2": "Systeme",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "Backups",
+    "titre": "Module Backups",
+    "soustitre": "Voss backups en un clic.",
+    "cat2": "NAS",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "Backups",
+    "titre": "Module Backups",
+    "soustitre": "Voss backups en un clic.",
+    "cat2": "NAS",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "Folderss",
+    "titre": "Module Folders",
+    "soustitre": "Naviguer dans vos disques.",
+    "cat2": "NAS",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
   }
 ]
+
 
 
 
