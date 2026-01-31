@@ -46,8 +46,33 @@
     "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "Backups",
+    "titre": "Module Backups",
+    "soustitre": "Voss backups en un clic.",
+    "cat2": "NAS",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "Backups",
+    "titre": "Module Backups",
+    "soustitre": "Voss backups en un clic.",
+    "cat2": "NAS",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "Folderss",
+    "titre": "Module Folders",
+    "soustitre": "Naviguer dans vos disques.",
+    "cat2": "NAS",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
   }
 ]
+
 
 
 
