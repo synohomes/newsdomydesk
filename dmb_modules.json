@@ -27,7 +27,7 @@
     "id": "SysInfos",
     "titre": "Module Infos System",
     "soustitre": "Affichage du systeme",
-    "cat2": "System",
+    "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
   },
@@ -48,6 +48,7 @@
     "view": "https://synohomes.com/previews/dhcp.png"
   }
 ]
+
 
 
 
