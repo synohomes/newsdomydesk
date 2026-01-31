@@ -11,7 +11,7 @@
     "id": "PXE",
     "titre": "Module PXE_WDS",
     "soustitre": "Serveur de déploiement systèmes Linux, Windows",
-    "cat2": "System",
+    "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
   },
@@ -48,6 +48,7 @@
     "view": "https://synohomes.com/previews/dhcp.png"
   }
 ]
+
 
 
 
