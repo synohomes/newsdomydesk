@@ -22,7 +22,32 @@
     "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "SysInfos",
+    "titre": "Module Infos System",
+    "soustitre": "Affichage du systeme",
+    "cat2": "System",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "VPN",
+    "titre": "Module VPN",
+    "soustitre": "Se connecter à un VPN",
+    "cat2": "Réseau",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
+  },
+    {
+    "id": "FW",
+    "titre": "Module FireWall",
+    "soustitre": "Un firewall embarqué.",
+    "cat2": "Systeme",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png"
   }
 ]
+
 
 
