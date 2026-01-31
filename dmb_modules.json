@@ -5,7 +5,7 @@
     "soustitre": "Serveur DHCP",
     "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png"
+    "view": "https://synohomes.com/previews/dhcp.png",
     "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
@@ -14,7 +14,7 @@
     "soustitre": "Serveur de déploiement systèmes Linux, Windows",
     "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png"
+    "view": "https://synohomes.com/previews/dhcp.png",
       "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
@@ -23,7 +23,7 @@
     "soustitre": "Point d'accès WIFI AP.",
     "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png"
+    "view": "https://synohomes.com/previews/dhcp.png",
       "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
@@ -32,7 +32,7 @@
     "soustitre": "Affichage du systeme",
     "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png"
+    "view": "https://synohomes.com/previews/dhcp.png",
       "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
@@ -41,7 +41,7 @@
     "soustitre": "Se connecter à un VPN",
     "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png"
+    "view": "https://synohomes.com/previews/dhcp.png",
       "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
@@ -50,7 +50,7 @@
     "soustitre": "Un firewall embarqué.",
     "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png"
+    "view": "https://synohomes.com/previews/dhcp.png",
       "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
@@ -59,7 +59,7 @@
     "soustitre": "Voss backups en un clic.",
     "cat2": "NAS",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png"
+    "view": "https://synohomes.com/previews/dhcp.png",
       "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
@@ -68,7 +68,7 @@
     "soustitre": "Voss backups en un clic.",
     "cat2": "NAS",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png"
+    "view": "https://synohomes.com/previews/dhcp.png",
       "url": "https://synohomes.com/previews/dhcp.png"
   },
     {
@@ -77,10 +77,11 @@
     "soustitre": "Naviguer dans vos disques.",
     "cat2": "NAS",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png"
+    "view": "https://synohomes.com/previews/dhcp.png",
       "url": "https://synohomes.com/previews/dhcp.png"
   }
 ]
+
 
 
 
