@@ -6,7 +6,7 @@
     "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png",
-    "url": "https://synohomes.com/previews/dhcp.png"
+    "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
     "id": "PXE",
@@ -15,7 +15,7 @@
     "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png",
-      "url": "https://synohomes.com/previews/dhcp.png"
+      "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
     "id": "AP",
@@ -24,7 +24,7 @@
     "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png",
-      "url": "https://synohomes.com/previews/dhcp.png"
+      "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
     "id": "SysInfos",
@@ -33,7 +33,7 @@
     "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png",
-      "url": "https://github.com/synohomes/Modules_DMB/raw/refs/heads/main/sysinfo.zip"
+      "zip": "https://github.com/synohomes/Modules_DMB/raw/refs/heads/main/sysinfo.zip"
   },
     {
     "id": "VPN",
@@ -42,7 +42,7 @@
     "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png",
-      "url": "https://synohomes.com/previews/dhcp.png"
+      "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
     "id": "FW",
@@ -51,7 +51,7 @@
     "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png",
-      "url": "https://synohomes.com/previews/dhcp.png"
+      "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
     "id": "Backups",
@@ -60,7 +60,7 @@
     "cat2": "NAS",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png",
-      "url": "https://synohomes.com/previews/dhcp.png"
+      "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
     "id": "Backups",
@@ -69,7 +69,7 @@
     "cat2": "NAS",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png",
-      "url": "https://synohomes.com/previews/dhcp.png"
+      "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
     "id": "Folders",
@@ -78,9 +78,10 @@
     "cat2": "NAS",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png",
-      "url": "https://synohomes.com/previews/dhcp.png"
+      "zip": "https://synohomes.com/previews/dhcp.zip"
   }
 ]
+
 
 
 
