@@ -6,7 +6,7 @@
     "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png",
-    "zip": "https://github.com/synohomes/Modules_DMB/raw/refs/heads/main/domybox_dhcp.zip"
+    "zip": "https://raw.githubusercontent.com/synohomes/Modules_DMB/main/domybox_dhcp.zip"
   },
     {
     "id": "PXE",
@@ -99,6 +99,7 @@
       "zip": "https://synohomes.com/previews/dhcp.zip"
   }
 ]
+
 
 
 
