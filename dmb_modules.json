@@ -79,8 +79,27 @@
     "doc": "https://synohomes.com/docs/dhcp.pdf",
     "view": "https://synohomes.com/previews/dhcp.png",
       "zip": "https://synohomes.com/previews/dhcp.zip"
+  },
+    {
+    "id": "HomeAssitant",
+    "titre": "Home Assistant",
+    "soustitre": "Voss backups en un clic.",
+    "cat2": "Domotique",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png",
+      "zip": "https://synohomes.com/previews/dhcp.zip"
+  },
+    {
+    "id": "ESPhome",
+    "titre": "Moule ESPHome",
+    "soustitre": "Naviguer dans vos disques.",
+    "cat2": "Domotique",
+    "doc": "https://synohomes.com/docs/dhcp.pdf",
+    "view": "https://synohomes.com/previews/dhcp.png",
+      "zip": "https://synohomes.com/previews/dhcp.zip"
   }
 ]
+
 
 
 
