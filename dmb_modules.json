@@ -23,7 +23,7 @@
     "soustitre": "Point d'accès WIFI AP.",
     "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png",
+    "view": "https://github.com/synohomes/Modules_DMB/blob/main/logo_domybox.png",
       "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
@@ -32,7 +32,7 @@
     "soustitre": "Affichage du systeme",
     "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png",
+    "view": "https://github.com/synohomes/Modules_DMB/blob/main/logo_domybox.png",
       "zip": "https://github.com/synohomes/Modules_DMB/raw/refs/heads/main/sysinfo.zip"
   },
     {
@@ -41,7 +41,7 @@
     "soustitre": "Se connecter à un VPN",
     "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png",
+    "view": "https://github.com/synohomes/Modules_DMB/blob/main/logo_domybox.png",
       "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
@@ -50,7 +50,7 @@
     "soustitre": "Un firewall embarqué.",
     "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png",
+    "view": "https://github.com/synohomes/Modules_DMB/blob/main/logo_domybox.png",
       "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
@@ -59,7 +59,7 @@
     "soustitre": "Voss backups en un clic.",
     "cat2": "NAS",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png",
+    "view": "https://github.com/synohomes/Modules_DMB/blob/main/logo_domybox.png",
       "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
@@ -68,7 +68,7 @@
     "soustitre": "Voss backups en un clic.",
     "cat2": "NAS",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png",
+    "view": "https://github.com/synohomes/Modules_DMB/blob/main/logo_domybox.png",
       "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
@@ -77,7 +77,7 @@
     "soustitre": "Naviguer dans vos disques.",
     "cat2": "NAS",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png",
+    "view": "https://github.com/synohomes/Modules_DMB/blob/main/logo_domybox.png",
       "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
@@ -86,7 +86,7 @@
     "soustitre": "Voss backups en un clic.",
     "cat2": "Domotique",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png",
+    "view": "https://github.com/synohomes/Modules_DMB/blob/main/logo_domybox.png",
       "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
@@ -95,7 +95,7 @@
     "soustitre": "Naviguer dans vos disques.",
     "cat2": "Domotique",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png",
+    "view": "https://github.com/synohomes/Modules_DMB/blob/main/logo_domybox.png",
       "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
@@ -104,7 +104,7 @@
     "soustitre": "Voss backups en un clic.",
     "cat2": "Domotique",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png",
+    "view": "https://github.com/synohomes/Modules_DMB/blob/main/logo_domybox.png",
       "zip": "https://synohomes.com/previews/dhcp.zip"
   },
     {
@@ -113,10 +113,11 @@
     "soustitre": "Naviguer dans vos disques.",
     "cat2": "Domotique",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png",
+    "view": "https://github.com/synohomes/Modules_DMB/blob/main/logo_domybox.png",
       "zip": "https://synohomes.com/previews/dhcp.zip"
   }
 ]
+
 
 
 
