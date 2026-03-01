@@ -5,7 +5,7 @@
     "soustitre": "Serveur DHCP",
     "cat2": "Réseau",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png",
+    "view": "https://github.com/synohomes/Modules_DMB/blob/main/logo_domybox.png",
     "zip": "https://raw.githubusercontent.com/synohomes/Modules_DMB/main/domybox_dhcp.zip"
   },
     {
@@ -14,7 +14,7 @@
     "soustitre": "Serveur de déploiement systèmes Linux, Windows",
     "cat2": "Systeme",
     "doc": "https://synohomes.com/docs/dhcp.pdf",
-    "view": "https://synohomes.com/previews/dhcp.png",
+    "view": "https://github.com/synohomes/Modules_DMB/blob/main/logo_domybox.png",
       "zip": "https://github.com/synohomes/Modules_DMB/raw/refs/heads/main/testmarker.zip"
   },
     {
@@ -117,6 +117,7 @@
       "zip": "https://synohomes.com/previews/dhcp.zip"
   }
 ]
+
 
 
 
