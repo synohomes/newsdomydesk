@@ -1,0 +1,164 @@
+[
+            {
+    "titre": "DoMyBox",
+    "soustitre": "Un Pi-5 pour héberger Domydesk et Domysocial en préparation. Mais cette box ne s'arrête pas là, elle pourra faire un serveur DHCP, PXE, DNS et permettra un PRA tellement facilement qu'un crash dans votre entreprise ne sera plus vue comme une catastrophe.",
+    "date": "2026-02-01",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Une box Pi5 avec un nvme pour vous servire de serveur à la maison ou dans votre entreprise (SA, PME, Association...)"
+   },
+      {
+    "titre": "Nouveau module Domydesk",
+    "soustitre": "Candy pour vos moments de détente",
+    "date": "2026-01-14",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Mini-jeu simple et coloré pour se détendre quelques minutes, basé sur la réflexion rapide et l’enchaînement de combinaisons."
+   },    
+  {
+    "titre": "Nouveau module Domydesk",
+    "soustitre": "Snake pour vos moments de détente",
+    "date": "2026-01-14",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Snake est un jeu rétro incontournable qui met à l’épreuve la précision et les réflexes, avec une prise en main immédiate et une difficulté progressive."
+   },
+         {
+    "titre": "Nouveau module Domydesk",
+    "soustitre": "Un convertisseur d'unités ?",
+    "date": "2026-01-14",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "dmdconvert est un module pratique qui permet de convertir rapidement des unités et formats courants (poids, longueurs, volumes, données, temps, etc.)"
+   },
+       {
+    "titre": "Nouveau module Domydesk",
+    "soustitre": "Générateur de mot de passe ? Coffre à mot de passe ?",
+    "date": "2026-01-14",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Genpw est un module sécurisé qui permet de générer, stocker et exporter des mots de passe chiffrés, protégés par un mot de passe maître, avec contrôle d’accès, export PDF et affichage QRcode."
+   },
+     {
+    "titre": "Nouveau module Domydesk",
+    "soustitre": "Vous voulez calculer vos IP réseau ipv4 et ipv6 ? Connaitre le nombre d'ip possible avec un sous-réseau ?",
+    "date": "2026-01-14",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "ipcalc est un module simple et visuel qui permet de calculer, comprendre et vérifier des adresses IP (IPv4/IPv6), leurs plages, masques, sous-réseaux et informations réseau, avec export et procédures intégrées."
+   },
+   {
+    "titre": "Domysocial se développe.",
+    "soustitre": "Vous voulez créer votre groupe ?",
+    "date": "2026-01-14",
+    "auteur": "DoMySocial",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Vous voulez créer votre groupe ? Cela est à présent possible dans DoMySocial et vous pourrez inviter qui vous voulez :) pas belle la vie ?"
+   },
+  {
+    "titre": "Nouveau module 'Map'",
+    "soustitre": "Votre Googlemap sous la main sans lien avec Google ...",
+    "date": "2025-08-24",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Vous pourrez pointer votre rue et avoir un plan autour de vous facilement comme googlemap, téléchargeable et installable depuis l'administration Système dans les modules."
+   },
+    {
+    "titre": "Nouveau module en cours (50%)",
+    "soustitre": " Et si vous aviez la main sur vos propres fichiers/dossiers ? ",
+    "date": "2025-08-03",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "'Folders' va vous permettre de naviguer dans votre dossier personnel pour ajouter, lire, supprimer, déplacer des fichiers et ou dossier, vous pourrez aussi partager par groupe ou par utilisateur des dossiers pour vos colaborations"
+  },
+  {
+    "titre": "DoMyDesk Jour J",
+    "soustitre": "La sortie de DoMyDesk est aujourd'hui",
+    "date": "2025-08-02",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Avec 3 jours de retard DoMyDesk sort enfin de la cave, une version complète avec tous les modules (mode démo) seront directement installés dans le fichier que vous téléchargerez."
+  },
+  {
+    "titre": "DoMySocial",
+    "soustitre": "DoMySocial ou DoMyTribe",
+    "date": "2025-07-07",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Un réseau de discussion, comme on les aime : un mur d’échanges, de partages et de bonne humeur."
+  },
+    {
+    "titre": "DoMyBox",
+    "soustitre": "Domydesk, autonome, rapsberry pi 5 ... ",
+    "date": "2025-06-21",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Que diriez vous d'avoir DoMyDesk auto hébergé avec un hotspot, firewall type pfsense, un vpn intégré, un serveur Apach/Php, serveur DHCP, DoMyBoxV1, DoMyBoxV2, DoMyBoxV2, du rapsberry pi 5 8Go au mini PC avec 2xRJ45 juste en l'alumant? Projet en cours de développement (en cours)"
+  },
+    {
+    "titre": "Site complet",
+    "soustitre": "Plein de changements sur le site.",
+    "date": "2025-06-09",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Le site est complet avec un Dashboard complet qui sauvegarde les modules en place, un 'Reset' pour tout enlever d'un coup, votre thème de couleur partout sur le site, upload de modules avec ajout dans les listes automatiquement, ajout du MarketModules, ajout d'un jeu d'échec, ajout du jeu de solitaire,  ... "
+  },
+    {
+    "titre": "Annonce du lancement de DoMyDesk",
+    "soustitre": "Annonces du lancement sur facebook, Discord et le site https://synohomes.com",
+    "date": "2025-06-01",
+      "auteur": "DoMyDesk",
+	  "view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "La date du lancement du projet DoMyDesk a été annoncée sur Facebook et Discord avec lien pour avoir le compte à rebour http://domydesk.com "
+  },
+  {
+    "titre": "Nouveaux modules IT",
+    "soustitre": "Deux modules pour gérer vos virtualiseurs",
+    "date": "2025-05-21",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Vous pouvez avec ce module: créer, modifier, démarrer, éteindre vos VM qui sont sur Proxmox ou Esxi et un autre pour vous permettre de contrôle la VM directement sur votre dashboard, pas belle la vie ?"
+  },
+  {
+    "titre": "Nouveaux modules outils maison",
+    "soustitre": "Quelques outils pour votre maison",
+    "date": "2025-05-20",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Vous rêvez d'avoir toute vos télécommandes de vos appareils connectés sur une page web et bien d'autres? C'est maintenant ! "
+  },
+  {
+    "titre": "Nouveau module Outil de bureau",
+    "soustitre": "Outils indispensables pour votre bureau",
+    "date": "2025-05-20",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Une calculatrice, un bloc note, une horloge/alarme, "
+  },
+{
+    "titre": "Le site et le concepte est né",
+    "soustitre": "Le site est né et est fonctionnel",
+    "date": "2025-05-20",
+  "auteur": "DoMyDesk",
+  "view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Le support est posé après 3 semaines de code (php, html; js, json) j'en ai perdu mes cheveux blancs"
+  },
+{
+    "titre": "Invention du concepte",
+  "date": "2025-02-08",
+  "auteur": "DoMyDesk",
+  "view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "soustitre": "SynoAdminWeb pousse de sous terre",
+    
+    "description": "Espace de travail modulable sur une page web, toute la famille, toute les équipes, toutes les associations aiment la simplicité, on fabrique son bureau, zone médias et bien d'autres"
+  },
+
+  {
+    "titre": "Le commencement ...",
+    "soustitre": "Au travail",
+    "date": "2024-12-20",
+    "auteur": "DoMyDesk",
+	"view": "https://domydesk.com/wp-content/uploads/2026/03/logo_domybox.png",
+    "description": "Au travail il n'était pas simple de travailler sur plusieurs serveurs en RDP, comment redémarrer un simple service de mon serveur avec mon smartphone? Tout contrôler depuis un smartphone ou une tablette"
+  }
+]
