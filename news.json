@@ -5,44 +5,37 @@
     "date": "2026-02-01",
     "auteur": "DoMyDesk",
     "description": "Une box Pi5 avec un nvme pour vous servire de serveur à la maison ou dans votre entreprise (SA, PME, Association...)"
-   },
-            {
-    "titre": "DoMyBox",
-    "soustitre": "Un Pi-5 pour héberger Domydesk et Domysocial en préparation. Mais cette box ne s'arrête pas là, elle pourra faire un serveur DHCP, PXE, DNS et permettra un PRA tellement facilement qu'un crash dans votre entreprise ne sera plus vue comme une catastrophe.",
-    "date": "2026-02-01",
-    "auteur": "DoMyDesk",
-    "description": "Une box Pi5 avec un nvme pour vous servire de serveur à la maison ou dans votre entreprise (SA, PME, Association...)"
-   },
+   }
       {
-    "titre": "Nouveau module Domydesk",
+    "titre": "Candy sur Domydesk",
     "soustitre": "Candy pour vos moments de détente",
     "date": "2026-01-14",
     "auteur": "DoMyDesk",
     "description": "Mini-jeu simple et coloré pour se détendre quelques minutes, basé sur la réflexion rapide et l’enchaînement de combinaisons."
    },    
   {
-    "titre": "Nouveau module Domydesk",
+    "titre": "Snake sur Domydesk",
     "soustitre": "Snake pour vos moments de détente",
     "date": "2026-01-14",
     "auteur": "DoMyDesk",
     "description": "Snake est un jeu rétro incontournable qui met à l’épreuve la précision et les réflexes, avec une prise en main immédiate et une difficulté progressive."
    },
          {
-    "titre": "Nouveau module Domydesk",
+    "titre": "Un convertisseur Domydesk",
     "soustitre": "Un convertisseur d'unités ?",
     "date": "2026-01-14",
     "auteur": "DoMyDesk",
     "description": "dmdconvert est un module pratique qui permet de convertir rapidement des unités et formats courants (poids, longueurs, volumes, données, temps, etc.)"
    },
        {
-    "titre": "Nouveau module Domydesk",
+    "titre": "Coffre, générateur de mot de passe sur Domydesk",
     "soustitre": "Générateur de mot de passe ? Coffre à mot de passe ?",
     "date": "2026-01-14",
     "auteur": "DoMyDesk",
     "description": "Genpw est un module sécurisé qui permet de générer, stocker et exporter des mots de passe chiffrés, protégés par un mot de passe maître, avec contrôle d’accès, export PDF et affichage QRcode."
    },
      {
-    "titre": "Nouveau module Domydesk",
+    "titre": "IpCal Domydesk",
     "soustitre": "Vous voulez calculer vos IP réseau ipv4 et ipv6 ? Connaitre le nombre d'ip possible avec un sous-réseau ?",
     "date": "2026-01-14",
     "auteur": "DoMyDesk",
