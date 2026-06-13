@@ -1,10 +1,10 @@
 [
 {
     "titre": "DoMyBox",
-    "soustitre": "Un Pi-5 pour héberger Domydesk et Domysocial en préparation. Mais cette box ne s'arrête pas là, elle pourra faire un serveur DHCP, PXE, DNS et permettra un PRA tellement facilement qu'un crash dans votre entreprise ne sera plus vue comme une catastrophe.",
+    "soustitre": "Un Pi-5 pour héberger Domydesk et Domysocial en préparation.",
     "date": "2026-02-01",
     "auteur": "DoMyDesk",
-    "description": "Une box Pi5 avec un nvme pour vous servire de serveur à la maison ou dans votre entreprise (SA, PME, Association...)"
+    "description": "Une box Pi5 avec un nvme pour vous servire de serveur à la maison ou dans votre entreprise (SA, PME, Association...)elle pourra faire un serveur DHCP, PXE, DNS et permettra un PRA tellement facilement qu'un crash dans votre entreprise ne sera plus vue comme une catastrophe."
    },
 {
     "titre": "Candy",
