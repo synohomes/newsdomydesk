@@ -7,35 +7,35 @@
     "description": "Une box Pi5 avec un nvme pour vous servire de serveur à la maison ou dans votre entreprise (SA, PME, Association...)"
    },
 {
-    "titre": "Candy sur Domydesk",
+    "titre": "Candy",
     "soustitre": "Candy pour vos moments de détente",
     "date": "2026-01-14",
     "auteur": "DoMyDesk",
     "description": "Mini-jeu simple et coloré pour se détendre quelques minutes, basé sur la réflexion rapide et l’enchaînement de combinaisons."
    },    
 {
-    "titre": "Snake sur Domydesk",
+    "titre": "Snake",
     "soustitre": "Snake pour vos moments de détente",
     "date": "2026-01-14",
     "auteur": "DoMyDesk",
     "description": "Snake est un jeu rétro incontournable qui met à l’épreuve la précision et les réflexes, avec une prise en main immédiate et une difficulté progressive."
    },
 {
-    "titre": "Un convertisseur Domydesk",
+    "titre": "Convertisseur",
     "soustitre": "Un convertisseur d'unités ?",
     "date": "2026-01-14",
     "auteur": "DoMyDesk",
     "description": "dmdconvert est un module pratique qui permet de convertir rapidement des unités et formats courants (poids, longueurs, volumes, données, temps, etc.)"
    },
 {
-    "titre": "Coffre, générateur de mot de passe sur Domydesk",
+    "titre": "Coffre",
     "soustitre": "Générateur de mot de passe ? Coffre à mot de passe ?",
     "date": "2026-01-14",
     "auteur": "DoMyDesk",
     "description": "Genpw est un module sécurisé qui permet de générer, stocker et exporter des mots de passe chiffrés, protégés par un mot de passe maître, avec contrôle d’accès, export PDF et affichage QRcode."
    },
  {
-    "titre": "IpCal Domydesk",
+    "titre": "IpCal",
     "soustitre": "Vous voulez calculer vos IP réseau ipv4 et ipv6 ? Connaitre le nombre d'ip possible avec un sous-réseau ?",
     "date": "2026-01-14",
     "auteur": "DoMyDesk",
