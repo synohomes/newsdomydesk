@@ -9,7 +9,7 @@
 {
     "titre": "DoMyBox",
     "soustitre": "Un Pi-5 pour héberger Domydesk et Domysocial en préparation.",
-    "date": "2026-02-01",
+    "date": "2026-02-24",
     "auteur": "DoMyDesk",
     "description": "Une box Pi5 avec un nvme pour vous servire de serveur à la maison ou dans votre entreprise (SA, PME, Association...)elle pourra faire un serveur DHCP, PXE, DNS et permettra un PRA tellement facilement qu'un crash dans votre entreprise ne sera plus vue comme une catastrophe."
    },
@@ -37,7 +37,7 @@
 {
     "titre": "Coffre",
     "soustitre": "Générateur de mot de passe ? Coffre à mot de passe ?",
-    "date": "2026-01-14",
+    "date": "2026-01-02",
     "auteur": "DoMyDesk",
     "description": "Genpw est un module sécurisé qui permet de générer, stocker et exporter des mots de passe chiffrés, protégés par un mot de passe maître, avec contrôle d’accès, export PDF et affichage QRcode."
    },
