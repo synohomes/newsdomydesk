@@ -1,21 +1,27 @@
 [
   {
-    "name": "Proxv2 (En Cours)",
+    "name": "Premiers pas sur DoMyDesk: (en cours)",
     "date": "2025-08-15",
-    "description": "Procédure pour utiliser le module Proxmox",
+    "description": "Comment utiliser DoMyDesk après son installation",
     "pdf": "https://raw.githubusercontent.com/procedures/installation_dmd.pdf",
     "size": "1.2 MB"
   },
   {
-    "name": "CountDown (En Cours)",
+    "name": "Votre dashboard: (en cours)",
     "date": "2025-08-12",
-    "description": "Procédure pour configurer le module CountDows",
+    "description": "Comment configurer votre dashboard et le personnaliser",
     "pdf": "https://raw.githubusercontent.com/procedures/backup_restore.pdf"
   },
   {
-    "name": "Meteov2 (En Cours)",
+    "name": "Configurer votre rôles métier (En Cours)",
     "date": "2025-08-12",
     "description": "Procédure pour configurer le module Meteov2.",
+    "pdf": "https://raw.githubusercontent.com/procedures/backup_restore.pdf"
+  },
+    {
+    "name": "Configurer votre serveur à votre image (En Cours)",
+    "date": "2025-08-12",
+    "description": "Comment configurer votre DoMyDesk à votre image ou à celle de votre entreprise.",
     "pdf": "https://raw.githubusercontent.com/procedures/backup_restore.pdf"
   }
 ]
