@@ -1,4 +1,11 @@
 [
+    {
+    "titre": "Visuel DoMyDesk",
+    "soustitre": "DoMyDesk fait peau neuve et restructurée.",
+    "date": "2026-06-14",
+    "auteur": "DoMyDesk",
+    "description": "Un énorme changement visuel de DoMyDesk, boutons, mise en forme, taille de la police, taille des boutons et bien d'autres ont été revisités, une armonisation des formes centralisée dans un seul fichier style.css."
+   },
 {
     "titre": "DoMyBox",
     "soustitre": "Un Pi-5 pour héberger Domydesk et Domysocial en préparation.",
