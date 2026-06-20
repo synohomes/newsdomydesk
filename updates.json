@@ -1,11 +1,11 @@
 [
 {
-    "titre": "Update 26.01.001",
-    "soustitre": "Mise à jour 26-01-001",
+    "titre": "Update 2026.01.001",
+    "soustitre": "Mise à jour janvier 2026",
     "date": "2026-01-14",
     "update": "system",
-    "description": "Remplacement de la page modules pour classer vos modules par types.",
-    "url": "https://github.com/synohomes/Update/raw/refs/heads/main/data.zip"        
+    "description": "Remplacement des pages principales pour les rendre entièrement compatibles avec le style.css et aucun style dans le code.",
+    "url": "https://github.com/synohomes/Update/raw/refs/heads/main/2026.01.001.zip"        
 }
 ]
 
