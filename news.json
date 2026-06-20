@@ -1,4 +1,11 @@
 [
+        {
+    "titre": "Système DoMyDesk",
+    "soustitre": "Service de mises à jour.",
+    "date": "2026-06-20",
+    "auteur": "DoMyDesk",
+    "description": "La sortie complète de DoMyDesk ne pouvait pas se faire sans le système de mises à jour (updates). Aujourd'hui après quelques jours de travail ce service est enfin mit en place, fonctionnel, simple en deux clics pour le plus grand bonheur des utilisateurs."
+   },
     {
     "titre": "Visuel DoMyDesk",
     "soustitre": "DoMyDesk fait peau neuve et restructurée.",
