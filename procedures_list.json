@@ -1,31 +1,10 @@
 [
   {
-    "name": "Premiers pas sur DoMyDesk: (en cours)",
+    "name": "Installer DoMyDesk sur votre serveur Web",
     "date": "2025-08-15",
-    "description": "Comment utiliser DoMyDesk après son installation",
-    "pdf": "https://github.com/synohomes/procedures/blob/main/procedures.pdf",
-    "size": "1.2 MB"
-  },
-  {
-    "name": "Votre dashboard: (en cours)",
-    "date": "2025-08-12",
-    "description": "Comment configurer votre dashboard et le personnaliser",
-    "pdf": "https://github.com/synohomes/procedures/blob/main/procedures.pdf",
-    "size": "7.8 MB"
-  },
-  {
-    "name": "Configurer votre rôles métier (En Cours)",
-    "date": "2025-08-12",
-    "description": "Procédure pour configurer le module Meteov2.",
-    "pdf": "https://github.com/synohomes/procedures/blob/main/procedures.pdf",
-    "size": "0.9 MB"
-  },
-    {
-    "name": "Configurer votre serveur à votre image (En Cours)",
-    "date": "2025-08-12",
-    "description": "Comment configurer votre DoMyDesk à votre image ou à celle de votre entreprise.",
-    "pdf": "https://github.com/synohomes/procedures/blob/main/procedures.pdf",
-    "size": "3.2 MB"
+    "description": "Comment installer DoMyDesk",
+    "pdf": "https://github.com/synohomes/procedures/blob/main/procedure_installation_domydesk.pdf",
+    "size": "95.8 KB"
   }
 ]
 
