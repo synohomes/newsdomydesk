@@ -1,35 +1,27 @@
 [
         {
-  "name": "Theme Bleu Marine",
-  "date": "2025-11-15",
+  "name": "Theme Français",
+  "date": "2026-06-24",
   "description": "Un thème bleu marine et contours avec lueur",
-  "image": "https://github.com/synohomes/Themes_DmD/blob/main/BlueM.PNG?raw=true",
-  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/blueM.zip",
-  "size": "3 ko"
+  "image": "https://github.com/synohomes/Themes_DmD/blob/main/fr.png?raw=true",
+  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/fr.zip",
+  "size": "403 ko"
 },
     {
-  "name": "Theme Tron",
-  "date": "2025-08-15",
+  "name": "Theme Violet / Purple",
+  "date": "2026-06-24",
   "description": "Un thème qui essaye de vous plonger dans l'univers de Tron",
-  "image": "https://github.com/synohomes/Themes_DmD/blob/main/tron.png",
-  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/tron.zip",
-  "size": "160 ko"
+  "image": "https://github.com/synohomes/Themes_DmD/blob/main/purple.png?raw=true",
+  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/purple.zip",
+  "size": "143 ko"
 },
   {
-  "name": "Theme Nöel",
-  "date": "2025-08-15",
+  "name": "Theme Or / Gold",
+  "date": "2026-06-24",
   "description": "Thème Noël pour tous les enfants de 2 à 99 ans",
-  "image": "https://github.com/synohomes/Themes_DmD/blob/main/chris.png",
-  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/chris.zip",
-  "size": "160 ko"
-},
-    {
-  "name": "Theme Belgique",
-  "date": "2025-08-15",
-  "description": "Pour nos amis les Belges",
-  "image": "https://github.com/synohomes/Themes_DmD/blob/main/be.png",
-  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/be.zip",
-  "size": "160 ko"
+  "image": "https://github.com/synohomes/Themes_DmD/blob/main/gold.png?raw=true",
+  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/gold.zip",
+  "size": "113 ko"
 }
 ]
 
