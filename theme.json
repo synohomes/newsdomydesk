@@ -1,13 +1,5 @@
 [
-        {
-  "name": "Theme Français",
-  "date": "2026-06-24",
-  "description": "Un thème aux couleurs du beau pays la France, DoMyDesk ne pouvait pas être en production sans ces couleurs",
-  "image": "https://github.com/synohomes/Themes_DmD/blob/main/fr.png?raw=true",
-  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/fr.zip",
-  "size": "403 ko"
-},
-    {
+{
   "name": "Theme Violet / Purple",
   "date": "2026-06-24",
   "description": "Un thème sur une base de violet",
