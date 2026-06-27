@@ -14,6 +14,22 @@
   "image": "https://github.com/synohomes/Themes_DmD/blob/main/gold.png?raw=true",
   "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/gold.zip",
   "size": "113 ko"
+},
+  {
+  "name": "Theme Fr / France",
+  "date": "2026-06-24",
+  "description": "un thème aux couleurs de la France",
+  "image": "https://github.com/synohomes/Themes_DmD/blob/main/fr.png?raw=true",
+  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/fr.zip",
+  "size": "429 ko"
+},
+  {
+  "name": "Theme lightsoft / clair",
+  "date": "2026-06-24",
+  "description": "un thème clair mais pas trop",
+  "image": "https://github.com/synohomes/Themes_DmD/blob/main/lightsoft.png?raw=true",
+  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/lightsoft.zip",
+  "size": "429 ko"
 }
 ]
 
