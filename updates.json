@@ -1,7 +1,7 @@
 [
 {
-    "titre": "Update 2026.01.001",
-    "soustitre": "Mise à jour janvier 2026",
+    "titre": "Update 07.2026 Système",
+    "soustitre": "Mise à jour juillet 2026",
     "date": "2026-01-14",
     "update": "system",
     "description": "Remplacement des pages principales pour les rendre entièrement compatibles avec le style.css et aucun style dans le code.",
