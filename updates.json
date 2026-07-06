@@ -1,10 +1,10 @@
 [
 {
-    "titre": "Up.07.26 Todolist",
-    "soustitre": "Mise à jour module ToDoList",
+    "titre": "Update module Todolist",
+    "soustitre": "Module: ToDoList",
     "date": "Juillet 2026",
     "update": "Module",
-    "description": "Update du module ToDoList au niveau de son affichage non responsive, suppression de l'exportation PDF.",
+    "description": "Mise à jour du module ToDoList au niveau de son affichage non responsive, suppression de l'exportation PDF.",
     "url": "https://github.com/synohomes/Update/raw/refs/heads/main/update_todolist.zip"        
 }
 ]
