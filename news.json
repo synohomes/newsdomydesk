@@ -1,11 +1,11 @@
 [   
-   {
-    "titre": "DoMyDesk 18 juillet 2026",
-    "soustitre": "L'install de Domydesk avec sa mise à jour de juillet 2026.",
-    "date": "2026-07-18",
-    "auteur": "DoMyDesk",
-    "description": "Système pour l'agent domydesk est intégré mais aussi la page des membres qui affiche qui est en ligne, nouvelle fiche de l'utlisateur, mise au premier plan le module quand vous cliquez dessus, correction header et dashboard et redirection vers login.php quand un visiteur clic sur un lien non autorisé ."
-   },
+{
+  "titre": "DoMyDesk 18 juillet 2026",
+  "soustitre": "L'install de Domydesk avec sa mise à jour de juillet 2026.",
+  "date": "2026-07-18",
+  "auteur": "DoMyDesk",
+  "description": "Système pour l'agent DoMyDesk intégré, nouvelle page des membres, correction du header et du dashboard. <a href=\"https://github.com/synohomes/newsdomydesk/raw/refs/heads/main/domydesk.zip\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"news-download-btn\">TÉLÉCHARGER</a>"
+},
    {
     "titre": "Système DoMyDesk",
     "soustitre": "Service de mises à jour.",
