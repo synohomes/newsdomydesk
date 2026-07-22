@@ -31,6 +31,15 @@
   "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/lightsoft.zip",
   "size": "429 ko"
 }
+  ,
+  {
+  "name": "Theme Matrix / Vert",
+  "date": "2026-07-22",
+  "description": "un thème foncé, vert. Thème Matrix",
+  "image": "https://github.com/synohomes/Themes_DmD/blob/main/matrix.png?raw=true",
+  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/matrix.zip",
+  "size": "23 ko"
+}
 ]
 
 
