@@ -31,7 +31,7 @@
     "titre": "DoMyBox",
     "soustitre": "Un Pi-5 pour héberger Domydesk et Domysocial en préparation.",
     "date": "2026-02-24",
-    "auteur": "DoMyDesk",
+    "auteur": "DoMyBox",
     "description": "Une box Pi5 avec un nvme pour vous servire de serveur à la maison ou dans votre entreprise (SA, PME, Association...)elle pourra faire un serveur DHCP, PXE, DNS et permettra un PRA tellement facilement qu'un crash dans votre entreprise ne sera plus vue comme une catastrophe."
    },
 {
@@ -101,14 +101,14 @@
     "titre": "DoMySocial",
     "soustitre": "DoMySocial ou DoMyTribe",
     "date": "2025-07-07",
-    "auteur": "DoMyDesk",
+    "auteur": "DoMySocial",
     "description": "Un réseau de discussion, comme on les aime : un mur d’échanges, de partages et de bonne humeur."
   },
     {
     "titre": "DoMyBox",
     "soustitre": "Domydesk, autonome, rapsberry pi 5 ... ",
     "date": "2025-06-21",
-    "auteur": "DoMyDesk",
+    "auteur": "DoMyBox",
     "description": "Que diriez vous d'avoir DoMyDesk auto hébergé avec un hotspot, firewall type pfsense, un vpn intégré, un serveur Apach/Php, serveur DHCP, DoMyBoxV1, DoMyBoxV2, DoMyBoxV2, du rapsberry pi 5 8Go au mini PC avec 2xRJ45 juste en l'alumant? Projet en cours de développement (en cours)"
   },
     {
