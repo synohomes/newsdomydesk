@@ -5,29 +5,34 @@
   "date": "2026-07-25",
   "auteur": "DoMySocial",
   "description": "DoMySocial permet de créer sa propre communauté pour une famille, une association ou une entreprise : publications, groupes, commentaires, messagerie, notifications et profils membres, le tout sans publicité ni revente de données.",
-  "banniere_domysocial": "https://github.com/synohomes/newsdomydesk/blob/main/Banniere_DMD.png"
+  "banniere_domysocial": "https://github.com/synohomes/newsdomydesk/blob/main/Banniere_DMS.png"
 },
 {
   "titre": "DoMyDesk 18 juillet 2026",
   "soustitre": "L'install de Domydesk avec sa mise à jour de juillet 2026.",
   "date": "2026-07-18",
   "auteur": "DoMyDesk",
-  "description": "Système pour l'agent DoMyDesk intégré, nouvelle page des membres, correction du header et du dashboard, nouvelle fiche utilisateur, clic sur le module pour le mettre au premier plan. "
+  "description": "Système pour l'agent DoMyDesk intégré, nouvelle page des membres, correction du header et du dashboard, nouvelle fiche utilisateur, clic sur le module pour le mettre au premier plan. ",
+  "banniere_domysocial": "https://github.com/synohomes/newsdomydesk/blob/main/Banniere_DMD.png"
+
 },
    {
     "titre": "Système DoMyDesk",
     "soustitre": "Service de mises à jour.",
     "date": "2026-06-20",
     "auteur": "DoMyDesk",
-    "description": "La sortie complète de DoMyDesk ne pouvait pas se faire sans le système de mises à jour (updates). Aujourd'hui après quelques jours de travail ce service est enfin mit en place, fonctionnel, simple en deux clics pour le plus grand bonheur des utilisateurs."
+    "description": "La sortie complète de DoMyDesk ne pouvait pas se faire sans le système de mises à jour (updates). Aujourd'hui après quelques jours de travail ce service est enfin mit en place, fonctionnel, simple en deux clics pour le plus grand bonheur des utilisateurs.",
+    "banniere_domysocial": "https://github.com/synohomes/newsdomydesk/blob/main/Banniere_DMD.png"
+
    },
     {
     "titre": "Visuel DoMyDesk",
     "soustitre": "DoMyDesk fait peau neuve et restructurée.",
     "date": "2026-06-14",
     "auteur": "DoMyDesk",
-    "description": "Un énorme changement visuel de DoMyDesk, boutons, mise en forme, taille de la police, taille des boutons et bien d'autres ont été revisités, une armonisation des formes centralisée dans un seul fichier style.css."
-   },
+    "description": "Un énorme changement visuel de DoMyDesk, boutons, mise en forme, taille de la police, taille des boutons et bien d'autres ont été revisités, une armonisation des formes centralisée dans un seul fichier style.css.",
+   "banniere_domysocial": "https://github.com/synohomes/newsdomydesk/blob/main/Banniere_DMD.png"
+    },
 {
     "titre": "DoMyBox",
     "soustitre": "Un Pi-5 pour héberger Domydesk et Domysocial en préparation.",
