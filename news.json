@@ -4,7 +4,6 @@
     "soustitre": "Le réseau social privé, simple et auto-hébergé.",
     "date": "2026-07-25",
     "auteur": "DoMySocial",
-    "banniere_domysocial": "https://raw.githubusercontent.com/synohomes/domysocial/main/images/news/domysocial.jpg",
     "description": "DoMySocial permet de créer sa propre communauté pour une famille, une association ou une entreprise : publications, groupes, commentaires, messagerie, notifications et profils membres, le tout sans publicité ni revente de données."
    },
 {
@@ -12,7 +11,6 @@
   "soustitre": "L'install de Domydesk avec sa mise à jour de juillet 2026.",
   "date": "2026-07-18",
   "auteur": "DoMyDesk",
-  "banniere_domysocial": "https://raw.githubusercontent.com/synohomes/domysocial/main/images/news/domysocial.jpg"
   "description": "Système pour l'agent DoMyDesk intégré, nouvelle page des membres, correction du header et du dashboard, nouvelle fiche utilisateur, clic sur le module pour le mettre au premier plan. "
 },
    {
@@ -20,7 +18,6 @@
     "soustitre": "Service de mises à jour.",
     "date": "2026-06-20",
     "auteur": "DoMyDesk",
-     "banniere_domysocial": "https://raw.githubusercontent.com/synohomes/domysocial/main/images/news/domysocial.jpg"
     "description": "La sortie complète de DoMyDesk ne pouvait pas se faire sans le système de mises à jour (updates). Aujourd'hui après quelques jours de travail ce service est enfin mit en place, fonctionnel, simple en deux clics pour le plus grand bonheur des utilisateurs."
    },
     {
