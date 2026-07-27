@@ -1,11 +1,12 @@
 [
-  {
-    "titre": "DoMySocial",
-    "soustitre": "Le réseau social privé, simple et auto-hébergé.",
-    "date": "2026-07-25",
-    "auteur": "DoMySocial",
-    "description": "DoMySocial permet de créer sa propre communauté pour une famille, une association ou une entreprise : publications, groupes, commentaires, messagerie, notifications et profils membres, le tout sans publicité ni revente de données."
-   },
+{
+  "titre": "DoMySocial",
+  "soustitre": "Le réseau social privé, simple et auto-hébergé.",
+  "date": "2026-07-25",
+  "auteur": "DoMySocial",
+  "description": "DoMySocial permet de créer sa propre communauté pour une famille, une association ou une entreprise : publications, groupes, commentaires, messagerie, notifications et profils membres, le tout sans publicité ni revente de données.",
+  "banniere_domysocial": "https://raw.githubusercontent.com/synohomes/domysocial/main/images/news/domysocial.jpg"
+},
 {
   "titre": "DoMyDesk 18 juillet 2026",
   "soustitre": "L'install de Domydesk avec sa mise à jour de juillet 2026.",
