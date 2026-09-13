@@ -1,4 +1,12 @@
 [
+  {
+  "titre": "DoMyDesk",
+  "soustitre": "Sortie officielle de DoMyDesk.",
+  "date": "2026-09-13",
+  "auteur": "DoMyDesk",
+  "description": "Sortie officielle de DoMyDesk à partir de 19h tout le monde pourra le télécharger. Son principe est simple : fournir une base centrale dans laquelle chacun peut construire son propre environnement avec les modules dont il a réellement besoin. Particulier, passionné, entreprise, technicien ou administrateur système : les usages peuvent être totalement différents.",
+  "banniere_domysocial": "https://github.com/synohomes/newsdomydesk/blob/main/Banniere_DMS.png?raw=true"
+},
 {
   "titre": "DoMySocial",
   "soustitre": "Le réseau social privé, simple et auto-hébergé.",
